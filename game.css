@@ -1,0 +1,59 @@
+body{
+    
+    background-color: aqua;
+}
+.login_div1, .login_div2
+{
+  background:pink;
+    padding: 10px;
+    float: none;
+    border-radius: 20px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+}
+#player1_name_input , #player2_name_input
+{
+  display: inline-block;
+    margin: 15px;
+    color: :red;
+    
+}
+#word{
+    width: 40%;
+}
+#word_display{
+    letter-spacing: 5px;
+}
+#output {
+    background: pink;
+    border-radius: 10px;
+    border-top: 10px solid red;
+    padding: 10px;
+    float: 10px;
+    text-align: left;
+}
+body{
+    background-image: url(images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form-control{
+    background-color: violet;
+}
+button[id="btn"]:hover{
+    background-color:antiquewhite;
+    
+}
+#pass{
+    color:yellowgreen;
+}
+#number1 , #number2
+
+{
+    color:black;
+}
+button[class='btn btn-info']:hover{
+    background-color:slategray;
+        
+}
